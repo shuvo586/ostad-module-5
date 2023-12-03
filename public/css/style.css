@@ -153,3 +153,12 @@
 .om5c__head-content a {
     font-size: 14px;
 }
+
+.om5c__card.om5c_shop {
+    text-align: center;
+}
+
+.om5c__card.om5c_shop .om5c__logo {
+    width: 84px;
+    height: 84px;
+}
