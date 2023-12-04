@@ -16,7 +16,7 @@
                 </div>
             </div>
         </div>
-        <button class="om5c__btn" onclick="showCreatecollection()" style="width: 138px">Add Collection</button>
+        <button class="om5c__btn" onclick="showCreatecollection()" style="width: 138px">Add Product</button>
     </div>
     <div class="om5c__card hidden om5c__form" id="create-collection">
         <button class="om5c__btn om5c__close" onclick="hideCreatecollection()">
